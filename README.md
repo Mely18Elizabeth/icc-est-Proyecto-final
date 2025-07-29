@@ -1,6 +1,9 @@
 # 🧭 Implementación de un Algoritmo para Encontrar la Ruta Óptima en un Laberinto
 
 Aplicando **Programación Dinámica** y **Estructuras de Datos**
+Nombres:
+- Melany Elizabeth Pintado
+- Janelly Dayanna Chacha
 
 ---
 
