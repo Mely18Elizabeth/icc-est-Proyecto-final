@@ -9,18 +9,22 @@ Aplicando **Programación Dinámica** y **Estructuras de Datos**
 Desarrollar una aplicación que implemente un algoritmo para encontrar la ruta óptima desde un punto de inicio (A) hasta un punto de destino (B) en un laberinto, utilizando conceptos avanzados de **programación dinámica**, y estructuras de datos **lineales** y **no lineales**.
 
 ---
+<img width="830" height="363" alt="cap1" src="https://github.com/user-attachments/assets/0b31e38f-719b-457f-8921-16054404c720" />
+
 
 ## 🖼️ Vista Previa
 
-![Laberinto](C:\Users\ELIZABETH\Downloads\cap1)
+
 ---
-![Laberinto](C:\Users\ELIZABETH\Downloads\cap2)
+
+<img width="1177" height="622" alt="cap2" src="https://github.com/user-attachments/assets/1853fa41-da08-49b2-af60-f89668b850a7" />
 
 
 ---
 ## 🖼️ Diagrama UML
 
-![Diagrama](C:\Users\ELIZABETH\Downloads\cap3Diagrama)
+
+<img width="952" height="882" alt="cap3Diagrama" src="https://github.com/user-attachments/assets/5f4e8245-fbb7-45e5-be33-4e40ee11c527" />
 
 
 ---
