@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProyectoFinal_Laberinto:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProyectoFinal_Laberinto_jar</output-path>
+    <root id="archive" name="ProyectoFinal_Laberinto.jar">
+      <element id="module-output" name="ProyectoFinal_Laberinto" />
+    </root>
+  </artifact>
+</component>
