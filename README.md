@@ -2,9 +2,10 @@
 
 Aplicando **Programación Dinámica** y **Estructuras de Datos**
 Nombres:
-- Melany Elizabeth Pintado
-- Janelly Dayanna Chacha
+- Melany Elizabeth Pintado Pilco
+- Janelly Dayanna Chacha Vélez
 
+Url presentacion: https://www.canva.com/design/DAGumSrUm7U/R_xAzxu_ZTACdf_M2-X0AQ/edit?utm_content=DAGumSrUm7U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ---
 
 ## 🎯 Objetivo
